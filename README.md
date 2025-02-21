@@ -1,0 +1,1 @@
+This repository demonstrates a subtle bug in R related to subsetting data frames using character vectors that may contain names of non-existent columns. The `bug.r` file shows the problematic code. The `bugSolution.r` file provides a corrected version demonstrating how to handle this situation robustly.
